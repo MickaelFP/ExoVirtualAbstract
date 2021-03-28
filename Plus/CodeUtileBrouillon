@@ -1,0 +1,29 @@
+  /*
+  while(!equipe.empty() && extraterrestre.getCoque()>0)
+  {
+    for(Vehicule* perso : equipe)
+    {
+      perso->attackPlayer(&extraterrestre);
+      extraterrestre.showInfos();
+    }
+  }
+  */
+
+  /*
+    cout<<ennemycout<< "que faire!"<<endl<<"1 l'attaquer?"<<endl<<"2 inventaire"<<endl;
+    //cin >> setChoice >> " " >> endl;
+    if(choice == 1)
+    {
+      p1.stationPorte(true);
+      cout<< "" <<endl;
+      }else if( choice == 2)
+      {
+        p1.stationArriere(true);
+        cout<< ""<<endl;
+      }
+      if (choice == 3)
+      {
+        p1.stationVitre(true);
+        cout<< "" <<endl;
+      }
+*/

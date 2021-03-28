@@ -1,0 +1,30 @@
+/************** INFORMATIONS SUPPLEMENTAIRE **************
+
+// LOIS ET PHYSIQUE //
+*la distance se compte en unité (unite ou U) 
+
+// PROPULSEURS //
+*
+* vitesse propulseur de type "Spatial.p1" -> 50 U/s < vitesse < 1200 U/s
+* vitesse propulseur de type "Spatial.p2" -> 1a.l/14j -> 109 499 198 809 m/s
+* vitesse propulseur de type "Spatial.p3" -> 1a.l/24h -> 109 499 198 809 m/s
+* vitesse propulseur de type "Spatial.p4" -> une propulsion toutes les 5s 
+*                                         -> 1a.l < distanceParcourue/s < 100a.l
+*
+
+// CAPSULE D'OXYGENE //
+*
+* Capsule d'oxygène (pour une personne) de type "p.c.o1" 
+*                                    -> 6h d'autonomie = 21 600s
+* Capsule d'oxygène de type "p.c.o2" -> 12h d'autonomie = 43 200s
+* Capsule d'oxygène de type "p.c.o3" -> 24h d'autonomie = 86 400s
+* Capsule d'oxygène de type "p.c.o4" -> 7j d'autonomie = 604 800s
+*
+* Capsule d'oxygène (pour un espace fermé, véhicule, habitat) de type "e.f.c.o1"  
+*                                      -> 24h d'autonomie = 86 400s
+* Capsule d'oxygène de type "e.f.c.o2" -> 7j d'autonomie = 604 800s
+* Capsule d'oxygène de type "e.f.c.o3" -> 30j d'autonomie = 2 592 000s
+* Capsule d'oxygène de type "e.f.c.o4" -> 180j d'autonomie = 15 552 000s
+*
+
+**************/
